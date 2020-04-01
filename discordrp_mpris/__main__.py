@@ -14,6 +14,7 @@ from .config import Config
 CLIENT_ID = '435587535150907392'
 PLAYER_ICONS = {
     'Clementine': 'clementine',
+    'Elisa': 'elisa',
     'Media Player Classic Qute Theater': 'mpc-qt',
     'mpv': 'mpv',
     'Music Player Daemon': 'mpd',
